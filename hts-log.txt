@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 31 May 2024 19:30:03 at https://sameday.guru +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN100%I0p3DaK0H0%kf2o0A25000%f0#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sameday.guru -O1 "C:\Users\hp\Desktop\work jobs\scraped\sameday" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:30:47	Error: 	"Not Found" (404) at link https://sameday.guru/wp-json/ (from https://sameday.guru/)
+19:30:47	Error: 	"Not Found" (404) at link https://sameday.guru/wp-json/wp/v2/pages/43 (from https://sameday.guru/)
+19:30:47	Error: 	"Not Found" (404) at link https://sameday.guru/xmlrpc.php?rsd (from https://sameday.guru/)
+19:30:47	Error: 	"Not Found" (404) at link https://sameday.guru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhttps%3A%2F%2Fsameday.guru%2F (from https://sameday.guru/)
+19:30:47	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://code.tidio.co:443/tqhw5zp2izpdmwzomnu2blzfkmeylhur.js (from https://sameday.guru/)
+19:30:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sameday.guru/wp-content/uploads/2024/04/Sameday-logo-back.svg (from https://sameday.guru/)
+19:30:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sameday.guru/wp-content/uploads/1.jpg (from https://sameday.guru/)
+19:30:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sameday.guru/wp-content/uploads/2.jpg (from https://sameday.guru/)
+19:30:55	Warning: 	Link https://sameday.guru/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+19:30:55	Error: 	"Not Found" (404) at link https://sameday.guru/wp-content/img/select-arrow.svg (from https://sameday.guru/wp-content/uploads/uicore-global.css?ver=4976)
+19:30:55	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://code.tidio.co:443/tqhw5zp2izpdmwzomnu2blzfkmeylhur.js (from https://sameday.guru/)
+19:30:55	Error: 	"Not Found" (404) at link https://sameday.guru/wp-json/wp/v2/pages/592 (from https://sameday.guru/terms-of-use/)
+19:30:56	Error: 	"Not Found" (404) at link https://sameday.guru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhttps%3A%2F%2Fsameday.guru%2Fterms-of-use%2F (from https://sameday.guru/terms-of-use/)
+19:30:56	Error: 	"Not Found" (404) at link https://sameday.guru/wp-json/wp/v2/pages/621 (from https://sameday.guru/privacy/)
+19:30:58	Error: 	"Not Found" (404) at link https://sameday.guru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhttps%3A%2F%2Fsameday.guru%2Fprivacy%2F (from https://sameday.guru/privacy/)
+19:30:58	Error: 	"error:00000001:lib(0):func(0):reason(1)" (-5) after 2 retries at link https://code.tidio.co:443/tqhw5zp2izpdmwzomnu2blzfkmeylhur.js (from https://sameday.guru/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 55 seconds : 114 links scanned, 98 files written (6754587 bytes overall) [4808816 bytes received at 87433 bytes/sec], 2917153 bytes transferred using HTTP compression in 89 files, ratio 26%, 8.6 requests per connection
+(10 errors, 6 warnings, 0 messages)
